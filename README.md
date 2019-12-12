@@ -1,4 +1,4 @@
-# curso-django
+# Curso Django
 
 Aplicação disponivel em https://pythonprodjango-fillipi.herokuapp.com/
 
